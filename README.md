@@ -18,7 +18,7 @@ go run .
 ### d to move to right
 * *
 # Be careful for [ ] and "#"
-[Screencast from 03-06-23 07:28:15.webm](https://github.com/Bek-Shoyatbekov/need-for-speed-in-golang/assets/92543629/2a1a38f5-2f86-488b-8cfe-5878f649e7f0)
+
 
 
 # sit back , relax , enjoy the game 🙂
