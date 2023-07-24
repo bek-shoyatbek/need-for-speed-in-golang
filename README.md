@@ -19,4 +19,4 @@ go run .
 * *
 # Be careful for [ ] and "#"
 
-# sit back , relax , enjoy the game
+# sit back , relax , enjoy the game 🙂
