@@ -6,5 +6,4 @@ just out of curiousity
 ## To run code
 ```
 go run .
-
 ```
