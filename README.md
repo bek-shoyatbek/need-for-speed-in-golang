@@ -8,5 +8,5 @@ just out of curiousity
 go run .
 ```
 ## Then choose a level ( Enter 50 or higher number to play long )
-!["chooose level"](https://github.com/Bek-Shoyatbekov/need-for-speed-in-golang/blob/main/images/img.png?row=true)
+!["chooose level"](https://github.com/Bek-Shoyatbekov/need-for-speed-in-golang/blob/main/images/img_1.png?row=true)
 
