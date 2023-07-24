@@ -19,6 +19,7 @@ go run .
 * *
 # Be careful for [ ] and "#"
 
+[Screencast from 24-07-23 09:13:28.webm](https://github.com/Bek-Shoyatbekov/need-for-speed-in-golang/assets/92543629/16e21b52-5fbd-4f7e-9d51-224bb20fe822)
 
 
 # sit back , relax , enjoy the game 🙂
